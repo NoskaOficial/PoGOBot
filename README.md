@@ -1,0 +1,2 @@
+# PoGOBot
+Pokemon GO BOT
